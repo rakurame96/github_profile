@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/its_me_rakuram" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_rakuram?logo=twitter&style=for-the-badge" alt="its_me_rakuram" /></a> </p>
 
-- 🌱 I’m currently learning **Embedded Software Development**
+- 🌱 I’m currently learning to enter the **Software Development** domain
 
 - 💬 Ask me about **Love to have a useful knowledge sharing discussion on Automotive embedded field**
 
