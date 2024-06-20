@@ -2,8 +2,8 @@
 <h3 align="center">Passionate Automotive Embedded Developer (AUTOSAR) from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakurame96&label=Profile%20views&color=0e75b6&style=flat" alt="rakurame96" />
-  <a href="https://twitter.com/its_me_rakuram" target="_blank"><img src="https://img.shields.io/twitter/follow/its_me_rakuram?logo=twitter&style=for-the-badge" alt="its_me_rakuram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=rakurame96&label=Profile%20views&color=0e75b6&style=flat" alt="rakurame96" height="28"/>
+  <a href="https://twitter.com/its_me_rakuram" target="_blank"><img src="https://img.shields.io/twitter/follow/its_me_rakuram?logo=twitter&style=for-the-badge" alt="its_me_rakuram" height="28"/></a>
 </p>
 
 <p align="center">
@@ -39,7 +39,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakurame96&show_icons=true&locale=en&layout=compact" alt="rakurame96" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rakurame96&show_icons=true&locale=en" alt="rakurame96" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakurame96&" alt="rakurame96" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakurame96&show_icons=true&locale=en&layout=compact" alt="rakurame96" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rakurame96&show_icons=true&locale=en" alt="rakurame96" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakurame96&" alt="rakurame96" height="165"/>
 </p>
