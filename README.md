@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rakuram. E</h1>
-<h3 align="center"> A passionate embedded developer from India </h3>
+<h3 align="center"> A passionate Automotive Embedded Developer (AUTOSAR) from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakurame96&label=Profile%20views&color=0e75b6&style=flat" alt="rakurame96" /> </p>
 
@@ -7,13 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/its_me_rakuram" target="blank"><img src="https://img.shields.io/twitter/follow/its_me_rakuram?logo=twitter&style=for-the-badge" alt="its_me_rakuram" /></a> </p>
 
-- 🌱 I’m currently learning to enter the **Software Development** domain
+- 🔭 Working as a Associate Architect, with good experience in AUTOSAR Diagnostics Stack (DCM)
 
-- 💬 Ask me about **Love to have a useful knowledge sharing discussion on Automotive embedded field**
+- 🌱 I’m currently exploring to braden my knowledge horizon to Communication Stack especially focussing on **CAN, CAN-FD, Ethernet, SOME/IP**
+
+- 🌱 Additionally, I’m spending some free time to look deeper into the **Rust** programming language
+
+- 💬 Ask me about your queries related to my journey in the automotive, understanding of Diagnostics - **I'm love to share my knowledge with the others**
 
 - 📫 How to reach me **rakuram.e96@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zdhGSbmmlGZt1CkIfLJVQQknKq7JZjYz/view?usp=sharing](https://drive.google.com/file/d/1zdhGSbmmlGZt1CkIfLJVQQknKq7JZjYz/view?usp=sharing)
+- 📄 To know more about my professional journey, kindly take a look at my [resume](https://drive.google.com/file/d/1OgRO8_Y-Yl9og_o884JlwazJBYvKXLEO/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
