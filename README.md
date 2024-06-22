@@ -2,14 +2,8 @@
 <h3 align="center">Passionate Automotive Embedded Developer (AUTOSAR) from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakurame96&label=Profile%20views&color=0e75b6&style=flat" alt="rakurame96" height="28"/>
-  <a href="https://twitter.com/its_me_rakuram" target="_blank"><img src="https://img.shields.io/twitter/follow/its_me_rakuram?logo=twitter&style=for-the-badge" alt="its_me_rakuram" height="28"/></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rakurame96&row=1&column=3" alt="rakurame96" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=rakurame96&label=Profile%20views&color=0e75b6&style=flat" alt="rakurame96" height="20"/>
+  <a href="https://twitter.com/its_me_rakuram" target="_blank"><img src="https://img.shields.io/twitter/follow/its_me_rakuram?logo=twitter&style=for-the-badge" alt="its_me_rakuram" height="20"/></a>
 </p>
 
 ### 🚀 About Me
