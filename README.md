@@ -6,7 +6,10 @@
   <a href="https://twitter.com/its_me_rakuram" target="_blank"><img src="https://img.shields.io/twitter/follow/its_me_rakuram?logo=twitter&style=for-the-badge" alt="its_me_rakuram" height="20"/></a>
 </p>
 
+---
+
 ### 🚀 About Me
+
 - 🔭 **Associate Architect** specializing in AUTOSAR Diagnostics Stack (DCM)
 - 🌱 Currently exploring **CAN, CAN-FD, Ethernet, SOME/IP** in the Communication Stack
 - 💻 Diving into **Rust** in my spare time
@@ -14,16 +17,22 @@
 - 📫 Reach me at **rakuram.e96@gmail.com**
 - 📄 [My Resume](https://drive.google.com/file/d/1OgRO8_Y-Yl9og_o884JlwazJBYvKXLEO/view?usp=drive_link)
 
+---
+
 ### 🌐 Connect with Me
-<p align="left">
+
+<p align="center">
   <a href="https://twitter.com/its_me_rakuram" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_me_rakuram" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rakuram" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakuram" height="30" width="40" /></a>
   <a href="https://medium.com/@rakuram.e96" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
   <a href="https://substack.com/profile/@rakurame96" target="_blank"><img src="https://substackcdn.com/image/fetch/w_500,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack.com%2Fimg%2Fsubstack.png" alt="substack" height="30" width="40" /></a>
 </p>
 
+---
+
 ### 🛠️ Languages and Tools
-<p align="left">
+
+<p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -31,9 +40,36 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
 
+---
+
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rakurame96&show_icons=true&locale=en&layout=compact" alt="rakurame96" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api?username=rakurame96&show_icons=true&locale=en" alt="rakurame96" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakurame96&" alt="rakurame96" height="165"/>
+</p>
+
+---
+
+### 🛠️ Recent Projects
+
+- **[Project 1](https://github.com/rakurame96/project1)**: Brief description of the project.
+- **[Project 2](https://github.com/rakurame96/project2)**: Brief description of the project.
+- **[Project 3](https://github.com/rakurame96/project3)**: Brief description of the project.
+
+---
+
+### 📝 Latest Blog Posts
+
+- **[Exploring CAN-FD](https://medium.com/@rakuram.e96/exploring-can-fd)**: An in-depth look at the CAN-FD protocol.
+- **[Rust for Embedded Systems](https://substack.com/profile/@rakurame96/rust-for-embedded-systems)**: Why Rust is a great choice for embedded systems development.
+- **[AUTOSAR Diagnostics Explained](https://medium.com/@rakuram.e96/autosar-diagnostics-explained)**: A comprehensive guide to AUTOSAR diagnostics.
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rakurame96&theme=onestar&no-frame=true&row=1&column=4" alt="rakurame96" />
 </p>
