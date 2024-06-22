@@ -21,7 +21,7 @@
 
 ### 🌐 Connect with Me
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/its_me_rakuram" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="its_me_rakuram" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/rakuram" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rakuram" height="30" width="40" /></a>
   <a href="https://medium.com/@rakuram.e96" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
@@ -32,7 +32,7 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="center">
+<p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -54,17 +54,13 @@
 
 ### 🛠️ Recent Projects
 
-- **[Project 1](https://github.com/rakurame96/project1)**: Brief description of the project.
-- **[Project 2](https://github.com/rakurame96/project2)**: Brief description of the project.
-- **[Project 3](https://github.com/rakurame96/project3)**: Brief description of the project.
+- **WIP - Work In Progress**
 
 ---
 
 ### 📝 Latest Blog Posts
 
-- **[Exploring CAN-FD](https://medium.com/@rakuram.e96/exploring-can-fd)**: An in-depth look at the CAN-FD protocol.
-- **[Rust for Embedded Systems](https://substack.com/profile/@rakurame96/rust-for-embedded-systems)**: Why Rust is a great choice for embedded systems development.
-- **[AUTOSAR Diagnostics Explained](https://medium.com/@rakuram.e96/autosar-diagnostics-explained)**: A comprehensive guide to AUTOSAR diagnostics.
+- **WIP - Work In Progress**
 
 ---
 
