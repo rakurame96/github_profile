@@ -30,7 +30,9 @@
 
 ---
 
-### 🛠️ Languages and Tools
+### 🛠️ Skills
+
+#### Programming Languages
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -39,6 +41,25 @@
   <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 </p>
+<p>Proficiency Levels: C (Advanced), Rust (Beginner), C++ (Beginner), Java (Beginner), Python (Intermediate)</p>
+
+#### Frameworks and Libraries
+
+<p align="left">
+  <!-- Add icons for frameworks and libraries you use -->
+</p>
+<p>Proficiency Levels: List specific frameworks/libraries and indicate proficiency</p>
+
+- **WIP - Work In Progress**
+
+#### Tools and Technologies
+
+<p align="left">
+  <!-- Add icons for tools and technologies you use -->
+</p>
+<p>Proficiency Levels: List specific tools/technologies and indicate proficiency</p>
+
+- **WIP - Work In Progress**
 
 ---
 
